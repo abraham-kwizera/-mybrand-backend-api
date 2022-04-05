@@ -2,5 +2,3 @@ node_modules/
 .env 
 .nyc_output/ 
 coverage/  
-.Procfile 
-src/__tests__/
